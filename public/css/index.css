@@ -27,11 +27,12 @@ header{
 
 a{
     text-decoration: none;
-    color:black
+    color:black;
+    font-weight: bold;
 }
 
 a:hover{
-    color:rgb(139, 139, 139)
+    color:rgb(139, 139, 139);
 }
 
 .a-buttons{
