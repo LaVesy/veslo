@@ -41,3 +41,7 @@ a:hover{
     display: flex;
     justify-content: space-around;
 }
+
+body{
+    background-color: rgb(139, 139, 139);
+}
